@@ -1,0 +1,142 @@
+﻿  testing.cpp
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(56,65): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(177,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(296,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(335,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsString.h(404,74): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsCurrency.h(27,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsUser.h(197,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'testing.cpp')
+      C:\Users\Ahmed\Documents\C++\BankProject.opp\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(122,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(124,41): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(124,35): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(124,27): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(126,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(146,41): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(146,35): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsInputValidate.h(146,27): warning C4244: 'argument': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(217,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'testing.cpp')
+      C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(23,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(33,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(34,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(35,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(47,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(407,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsBankClient.h(420,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsAddNewClientScreen.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'testing.cpp')
+  
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,71): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,71): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,71): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,71): warning C4305:             T=float
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,71): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,66): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,66): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,66): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,66): warning C4305:             T=float
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,66): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,61): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,61): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,61): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,61): warning C4305:             T=float
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(88,61): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,66): warning C4305: 'argument': truncation from 'int' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,66): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,66): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,66): warning C4305:             T=bool
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,66): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,60): warning C4305: 'argument': truncation from 'int' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,60): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,60): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,60): warning C4305:             T=bool
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(90,60): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(95,69): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(95,69): warning C4305:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(95,69): warning C4305:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(95,69): warning C4305:             T=float
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(95,69): warning C4305:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,69): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,69): warning C4244:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,69): warning C4244:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,69): warning C4244:             T=short
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,69): warning C4244:         ]
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,63): warning C4244:         with
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,63): warning C4244:         [
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,63): warning C4244:             T=short
+C:\Users\Ahmed\Documents\C++\BankProject.opp\testing.cpp(97,63): warning C4244:         ]
+  testing.vcxproj -> C:\Users\Ahmed\Documents\C++\BankProject.opp\x64\Debug\testing.exe
